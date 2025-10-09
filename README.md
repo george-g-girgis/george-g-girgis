@@ -1,4 +1,4 @@
-<h1 align="center">George Gamal Girgis Tawfe</h1>
+<h1 align="center">George Gamal Girgis Tawfek</h1>
 
 ---
 
