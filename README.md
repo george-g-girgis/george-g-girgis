@@ -17,7 +17,7 @@ Junior **Cybersecurity Engineer** focused on **penetration testing** and **offen
 Skilled in **vulnerability assessment**, **web application testing**, and **network exploitation** using tools like **Nmap**, **Burp Suite**, and **Metasploit**.  
 Hands-on experience through **Hack The Box**, **TryHackMe**, and personal **Active Directory labs**.  
 
-Currently pursuing **OSCP** and **PNPT** certifications.  
+Currently pursuing **OSCP** and **eJpt** certifications.  
 I’m passionate about helping organizations uncover and remediate security weaknesses before they are exploited.  
 
 🎓 **Faculty of Computer and Information Sciences, Ain Shams University**  
@@ -68,8 +68,9 @@ I’m passionate about helping organizations uncover and remediate security weak
 - 🎯 **Red Nexus x Udemy** – Cybersecurity Red Teaming (120 hrs)  
 - 🧠 **Sprints x Microsoft** – Cybersecurity Track (90 hrs)  
 - 🧰 **NTI x Red Hat Academy** – Red Hat Linux System Administration (120 hrs)  
-- 🪪 **IBM SkillsBuild** – Cybersecurity Fundamentals  
-- 💡 **DECI x Udacity** – Python Programming  
+- 🪪 **IBM SkillsBuild** – Cybersecurity Fundamentals & Job Application Essentials 
+- 💡 **DECI x Udacity** – Python Programming
+- 💡 **Udemy** – Java Programming  
 - 📡 **CCNA (Self-Learning)** – Network Infrastructure  
 
 ---
