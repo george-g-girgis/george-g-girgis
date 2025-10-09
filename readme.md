@@ -1,24 +1,35 @@
-# George Gamal Girgis Tawfek
+<h1 align="center">George Gamal Girgis Tawfek</h1>
+
+---
+
+<h3 align="center">👨‍💻 Junior Cybersecurity Engineer | Offensive Security Enthusiast</h3>
+
+<p align="center">
+  📍 Cairo, Egypt &nbsp;•&nbsp;
+  🎓 Faculty of Computer and Information Sciences, Ain Shams University
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-Junior **Cybersecurity Engineer** specializing in **penetration testing** and **offensive security**.  
-Experienced in **vulnerability assessment**, **web application testing**, and **network exploitation** using tools such as **Nmap**, **Burp Suite**, and **Metasploit**.  
+Junior **Cybersecurity Engineer** specialized in **penetration testing** and **offensive security**.  
+Experienced in **vulnerability assessment**, **web application testing**, and **network exploitation** using tools like **Nmap**, **Burp Suite**, and **Metasploit**.  
 Hands-on experience through **Hack The Box**, **TryHackMe**, and personal **Active Directory labs**.  
 
 Currently pursuing **OSCP** and **PNPT** certifications.  
-Dedicated to identifying and remediating security weaknesses before exploitation.  
-
-📍 Cairo, Egypt  
-🎓 Faculty of Computer and Information Sciences, Ain Shams University  
+Passionate about identifying and remediating security weaknesses before exploitation.  
 
 ---
 
 ## 🌐 Socials
 
-[LinkedIn](https://linkedin.com/in/george-g-girgis) • [GitHub](https://github.com/george-g-girgis) • [Email](mailto:gamal.george77@yahoo.com) • [WhatsApp](https://wa.me/201009771764)
+<p align="center">
+  <a href="https://linkedin.com/in/george-g-girgis">LinkedIn</a> &nbsp;•&nbsp;
+  <a href="https://github.com/george-g-girgis">GitHub</a> &nbsp;•&nbsp;
+  <a href="mailto:gamal.george77@yahoo.com">Email</a> &nbsp;•&nbsp;
+  <a href="https://wa.me/201009771764">WhatsApp</a>
+</p>
 
 ---
 
@@ -49,7 +60,7 @@ Dedicated to identifying and remediating security weaknesses before exploitation
 
 - **Web Pentest Lab:** Exploited OWASP Top 10 vulnerabilities using DVWA  
 - **Hack The Box:** Completed 20+ boxes focused on privilege escalation and reverse shells  
-- **Active Directory Lab:** Simulated Kerberoasting and RCE attacks in a custom environment  
+- **Active Directory Lab:** Simulated Kerberoasting and RCE attacks in a controlled lab  
 - **Network Security Projects:** Deployed and secured small-scale home and office networks  
 
 ---
@@ -69,4 +80,4 @@ Communication • Team Collaboration • Ethical Responsibility
 
 ---
 
-### ⚔️ *“Hack to Learn. Secure to Protect.”*
+<h4 align="center">⚔️ “Hack to Learn. Secure to Protect.” ⚔️</h4>
