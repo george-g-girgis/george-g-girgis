@@ -20,9 +20,6 @@ Hands-on experience through **Hack The Box**, **TryHackMe**, and personal **Acti
 Currently pursuing **OSCP** and **eJpt** certifications.  
 I’m passionate about helping organizations uncover and remediate security weaknesses before they are exploited.  
 
-🎓 **Faculty of Computer and Information Sciences, Ain Shams University**  
-📍 **Cairo, Egypt**  
-
 ---
 
 ## 🌐 Socials:
