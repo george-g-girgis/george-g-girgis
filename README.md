@@ -2,7 +2,7 @@
 
 ---
 
-<h3 align="center">👨‍💻 Junior Cybersecurity Engineer | Offensive Security Enthusiast</h3>
+<h3 align="center">👨‍💻 Junior Cybersecurity Engineer</h3>
 
 <p align="center">
   📍 Cairo, Egypt &nbsp;•&nbsp;
