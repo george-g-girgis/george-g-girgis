@@ -69,16 +69,9 @@ I’m passionate about helping organizations uncover and remediate security weak
 - 🧰 **NTI x Red Hat Academy** – Red Hat Linux System Administration (120 hrs)  
 - 🪪 **IBM SkillsBuild** – Cybersecurity Fundamentals & Job Application Essentials 
 - 💡 **DECI x Udacity** – Python Programming
-- 💡 **Udemy** – Java Programming  
+- 💡 **Udemy** – Java Programming
+- 🧰 **RED TEAM LEADERS** – Certified Red Team Operations Management (CRTOM) 
 - 📡 **CCNA (Self-Learning)** – Network Infrastructure  
-
----
-
-## 🧱 Projects:
-- **Web Pentest Lab** – Exploited OWASP Top 10 vulnerabilities using DVWA  
-- **Hack The Box** – Completed 20+ boxes focused on privilege escalation & reverse shells  
-- **Active Directory Lab** – Simulated Kerberoasting, RCE chains & lateral movement  
-- **Network Security Projects** – Implemented and secured small-scale network setups  
 
 ---
 
