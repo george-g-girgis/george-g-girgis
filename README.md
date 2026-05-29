@@ -28,6 +28,7 @@ I’m passionate about helping organizations uncover and remediate security weak
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/george-g-girgis)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gamal.george77@yahoo.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201009771764)
+[![Static Badge](https://img.shields.io/badge/Portfolio)](https://gggsec.qzz.io)
 
 ---
 
